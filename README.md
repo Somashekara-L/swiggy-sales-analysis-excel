@@ -1,4 +1,4 @@
-[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/25183602/Swiggy.Raw.Data.Excel.xlsx)# 📊 Swiggy Sales Analysis Dashboard (Excel)
+📊 Swiggy Sales Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
 This project analyzes **Swiggy sales data** using **Microsoft Excel** to extract meaningful business insights through KPI calculations, data cleaning, and an interactive dashboard.
@@ -40,8 +40,7 @@ The dashboard enables stakeholders to quickly understand sales performance and s
 ---
 
 ## 📎 Project Files
-`[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/25183620/Swiggy.Raw.Data.Excel.xlsx)
+-DATA-[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/25183620/Swiggy.Raw.Data.Excel.xlsx)
 
 ## 📸 Dashboard Preview
-![Swiggy Dashboard](<img width="1135" height="631" alt="dashboard" src="https://github.com/user-attachments/assets/9483c798-0d7e-4d2d-8cb7-8da8a2568683" />
-)
+-DASHBOARD-[Swiggy Dashboard](<img width="1135" height="631" alt="dashboard" src="https://github.com/user-attachments/assets/9483c798-0d7e-4d2d-8cb7-8da8a2568683" />)
