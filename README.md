@@ -43,4 +43,5 @@ The dashboard enables stakeholders to quickly understand sales performance and s
 -DATA-[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/25183620/Swiggy.Raw.Data.Excel.xlsx)
 
 ## 📸 Dashboard Preview
--DASHBOARD-[Swiggy Dashboard](<img width="1135" height="631" alt="dashboard" src="https://github.com/user-attachments/assets/9483c798-0d7e-4d2d-8cb7-8da8a2568683" />)
+-DASHBOARD-<img width="1135" height="631" alt="dashboard" src="https://github.com/user-attachments/assets/348ba5a3-ad8b-4861-8a54-fcf2f47647fe" />
+
